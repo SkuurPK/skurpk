@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+FÁBIO+RASSELE;I'm+22+years+old;I+from+Brasil,+ES;I+study+Full Stack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=00BFBF&center=true&width=1000&lines=HELLO%2C+MY+NAME+IS+F%C3%81BIO+RASSELE;I'm+22+years+old;I'm+from+Vit%C3%B3ria+-+ES;Welcome%2C+everyone!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SKUURPK&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="SkurPK github stats" /> 
@@ -35,10 +35,10 @@
 
 
 <div align="center">
-<br><a href="https://www.github.com/carloseduardori" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SKUURPK?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<br><a href="https://www.github.com/skuurpk" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/skuurpk?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SKUURPK}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{skuurpk}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
