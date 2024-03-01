@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=00BFBF&center=true&width=1000&lines=HELLO%2C+MY+NAME+IS+F%C3%81BIO+RASSELE;I'm+22+years+old;I'm+from+Vit%C3%B3ria+-+ES;I'm+studying+to+be+a+fullstack+developer;Welcome+Everyone!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=00BFBF&center=true&width=1000&lines=HELLO%2C+MY+NAME+IS+F%C3%81BIO+RASSELE;I'm+23+years+old;I'm+from+Vit%C3%B3ria+-+ES;I'm+studying+to+be+a+fullstack+developer;Welcome+Everyone!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SkurZZ&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="SkurPK github stats" /> 
