@@ -27,29 +27,29 @@
   </a>
 </div>
 <br>
-<div style="margin-top: 30px; margin-bottom: 30px;">
-  <p align="left" style="font-size: 1.2em; color: #333; margin-bottom: 20px;">Tecnologias que utilizo:</p>
+<div style="margin-top: 30px; margin-bottom: 15px;">
+  <p align="left" style="font-size: 1.2em; color: #54906E; margin-bottom: 20px;">Tecnologias que utilizo:</p>
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/React-%2300D1F2?style=for-the-badge&logo=react&logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express-%23404d59?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-    <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/PostgreSQL-%233B4C94?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-    <img src="https://img.shields.io/badge/REST%20API-%7371599C?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API">
-    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-    <img src="https://img.shields.io/badge/React%20Router-%2341572B?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
-    <img src="https://img.shields.io/badge/Hooks-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Hooks">
-    <img src="https://img.shields.io/badge/Context%20API-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Context API">
-    <img src="https://img.shields.io/badge/Vite-%23000000?style=for-the-badge&logo=vite&logoColor=yellow" alt="Vite">
-    <img src="https://img.shields.io/badge/Prisma-%2362B5E5?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/-JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=54906E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-TypeScript-%23000?style=for-the-badge&logo=typescript&logoColor=54906E" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-React-%23000?style=for-the-badge&logo=react&logoColor=54906E" alt="React">
+    <img src="https://img.shields.io/badge/-Next.js-%23000?style=for-the-badge&logo=next.js&logoColor=54906E" alt="Next.js">
+    <img src="https://img.shields.io/badge/-Node.js-%23000?style=for-the-badge&logo=node.js&logoColor=54906E" alt="Node.js">
+    <img src="https://img.shields.io/badge/-Express-%23000?style=for-the-badge&logo=express&logoColor=54906E" alt="Express">
+    <img src="https://img.shields.io/badge/-MongoDB-%23000?style=for-the-badge&logo=mongodb&logoColor=54906E" alt="MongoDB">
+    <img src="https://img.shields.io/badge/-PostgreSQL-%23000?style=for-the-badge&logo=postgresql&logoColor=54906E" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/-MySQL-%23000?style=for-the-badge&logo=mysql&logoColor=54906E" alt="MySQL">
+    <img src="https://img.shields.io/badge/-Docker-%23000?style=for-the-badge&logo=docker&logoColor=54906E" alt="Docker">
+    <img src="https://img.shields.io/badge/-NPM-%23000?style=for-the-badge&logo=npm&logoColor=54906E" alt="NPM">
+    <img src="https://img.shields.io/badge/-REST%20API-%23000?style=for-the-badge&logo=swagger&logoColor=54906E" alt="REST API">
+    <img src="https://img.shields.io/badge/-Bootstrap-%23000?style=for-the-badge&logo=bootstrap&logoColor=54906E" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/-Redux-%23000?style=for-the-badge&logo=redux&logoColor=54906E" alt="Redux">
+    <img src="https://img.shields.io/badge/-React%20Router-%23000?style=for-the-badge&logo=react-router&logoColor=54906E" alt="React Router">
+    <img src="https://img.shields.io/badge/-Hooks-%23000?style=for-the-badge&logo=react&logoColor=54906E" alt="React Hooks">
+    <img src="https://img.shields.io/badge/-Context%20API-%23000?style=for-the-badge&logo=react&logoColor=54906E" alt="Context API">
+    <img src="https://img.shields.io/badge/-Vite-%23000?style=for-the-badge&logo=vite&logoColor=54906E" alt="Vite">
+    <img src="https://img.shields.io/badge/-Prisma-%23000?style=for-the-badge&logo=prisma&logoColor=54906E" alt="Prisma">
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-%23000?style=for-the-badge&logo=tailwindcss&logoColor=54906E" alt="Tailwind CSS">
   </div>
 </div>
 
